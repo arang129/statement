@@ -1,0 +1,9 @@
+voila==0.1.21
+ipykernel
+ipython
+ipython-genutils
+ipywidgets
+datetime
+pandas
+matplotlib
+numpy
