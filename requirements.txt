@@ -1,4 +1,4 @@
-voila==0.1.21
+voila
 ipykernel
 ipython
 ipython-genutils
